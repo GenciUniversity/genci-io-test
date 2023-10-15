@@ -36,7 +36,7 @@ const Nav = () => {
 				</Link>
 			</nav>
 			<Link
-				clLinkssName={`${styles.underline} font-semibold cursor-pointer hidden lg:block`}
+				className={`${styles.underline} font-semibold cursor-pointer hidden lg:block`}
 			>
 				Visit the University {">"}&nbsp;
 			</Link>
