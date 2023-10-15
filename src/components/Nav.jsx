@@ -35,11 +35,11 @@ const Nav = () => {
 					Our Team
 				</Link>
 			</nav>
-			<a
-				className={`${styles.underline} font-semibold cursor-pointer hidden lg:block`}
+			<Link
+				clLinkssName={`${styles.underline} font-semibold cursor-pointer hidden lg:block`}
 			>
 				Visit the University {">"}&nbsp;
-			</a>
+			</Link>
 		</header>
 	);
 };
